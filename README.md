@@ -1,16 +1,33 @@
-# React + Vite
+# Artisan Collective – Advanced Animations
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based web project showcasing advanced UI animations using **Framer Motion**.  
+The application focuses on smooth, performant, and accessible animations inspired by handcrafted artisan themes.
 
-Currently, two official plugins are available:
+## ✨ Features
+- Scroll-based reveal animations
+- Hover interactions with subtle micro-animations
+- Timeline-style animation for craft journey
+- Parallax hero section
+- Image mask reveal animations
+- Animated contact form inputs
+- Responsive and performance-optimized UI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Task Objective (Task 3: Advanced Animations)
+This project fulfills the following objectives:
+- Implement advanced animations using Framer Motion
+- Trigger animations via user interactions (scroll, hover, click)
+- Use timeline-style animations for complex sequences
+- Ensure accessibility and usability
+- Optimize animations for minimal performance impact
 
-## React Compiler
+## 🛠 Tech Stack
+- React
+- Vite
+- Framer Motion
+- CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Getting Started
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Install dependencies
+```bash
+npm install
